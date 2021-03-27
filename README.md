@@ -31,3 +31,6 @@ With the dataset ready and very clean, perform the measurements with Semantic Br
 
 https://public.tableau.com/profile/asairi.nava#!/vizhome/GraficasProyectofinal/Dashboard4?publish=yes
 
+#### Conclusions
+
+Bimbo was the best positioned brand. 
