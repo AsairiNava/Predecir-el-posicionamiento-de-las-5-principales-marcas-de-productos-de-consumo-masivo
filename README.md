@@ -1,5 +1,5 @@
 ### Branding a través de las menciones de Twitter
-Make the prediction that the main brands will be better positioned during the beginning of the year 2021, using the Twitter API and the Brand Score semantic measurements.
+Make a prediction about which brand will be the best positioned at the beginning of 2021, using the measurements of the Semantic BRand Score.
 
 Student: Asairi Carlos Nava Muciño
 
